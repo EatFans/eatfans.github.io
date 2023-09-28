@@ -14,10 +14,10 @@
         "JavaScript":"issue_per_label.html?label=JavaScript",
         "Python":"issue_per_label.html?label=Python",
         "Qt":"issue_per_label.html?label=Qt",
-        "AI人工智能":"issue_per_label.html?label=AI",
-        "我的项目":"issue_per_label.html?label=MyProject",
-        "其他":"issue_per_label.html?label=Others",
-        "灵感想法":"https://imuncle.github.io/timeline"
+        "AI人工智能":"issue_per_label.html?label=AI人工智能",
+        "我的项目":"issue_per_label.html?label=我的项目",
+        "其他":"issue_per_label.html?label=其他",
+        "灵感想法":"issue_per_label.html?label=灵感想法"
     },
     "friends": {
         "Bo": "https://blog.greedfox.com/",
