@@ -1,0 +1,48 @@
+{
+    "name": "EatFans",
+    "repo": "eatfans.github.io",
+    "client_id": "8fbe4e6dcb206c5b07c3",
+    "client_secret": "0b42a9b3fc2fdd9d585a86b0c8a3cc4eccd12de4",
+    "title": "EatFan's Space",
+    "instruction": "人生不向花前醉，花笑人生也是呆",
+    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "menu": {
+        "首页":"./",
+        "C":"issue_per_label.html?label=C",
+        "C++":"issue_per_label.html?label=C++",
+        "Java":"issue_per_label.html?label=Java",
+        "JavaScript":"issue_per_label.html?label=JavaScript",
+        "Python":"issue_per_label.html?label=Python",
+        "Qt":"issue_per_label.html?label=Qt",
+        "AI人工智能":"issue_per_label.html?label=AI",
+        "我的项目":"issue_per_label.html?label=MyProject",
+        "其他":"issue_per_label.html?label=Others",
+        "灵感想法":"https://imuncle.github.io/timeline"
+    },
+    "friends": {
+        "Bo": "https://blog.greedfox.com/",
+        "Qmaker": "https://hitszqmaker.github.io",
+        "KT's Blog": "https://tangkaichuan.cn/",
+        "lucainiaoge": "https://lucainiaoge.github.io/"
+    },
+    "icons": {
+        "Github": {
+            "icon_src": "images/github.svg",
+            "href": "https://github.com/EatFans",
+            "hidden_img": null,
+            "width": 0
+        },
+        "Wechart": {
+            "icon_src": "images/wechart.svg",
+            "href": null,
+            "hidden_img": "images/wechart-qrcode.jpg",
+            "width": 130
+        },
+        "QQ": {
+            "icon_src": "images/QQ.svg",
+            "href": "tencent://message/?uin=1437657457",
+            "hidden_img": null,
+            "width": 0
+        }
+    }
+}
