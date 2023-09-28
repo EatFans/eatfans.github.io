@@ -8,12 +8,6 @@
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "menu": {
         "首页":"./",
-        "C":"issue_per_label.html?label=C",
-        "C++":"issue_per_label.html?label=C++",
-        "Java":"issue_per_label.html?label=Java",
-        "JavaScript":"issue_per_label.html?label=JavaScript",
-        "Python":"issue_per_label.html?label=Python",
-        "Qt":"issue_per_label.html?label=Qt",
         "AI人工智能":"issue_per_label.html?label=AI人工智能",
         "我的项目":"issue_per_label.html?label=我的项目",
         "其他":"issue_per_label.html?label=其他",
