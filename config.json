@@ -10,7 +10,7 @@
         "首页":"./",
         "开发日记":"issue_per_label.html?label=开发日记",
         "我的项目":"issue_per_label.html?label=我的项目",
-        "其他":"issue_per_label.html?label=其他",
+        "其他":"issue_per_label.html?label=其他"
     },
     "friends": {
         "Bo": "https://blog.greedfox.com/",
