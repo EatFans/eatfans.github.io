@@ -27,7 +27,6 @@
         "Wechart": {
             "icon_src": "images/wechart.svg",
             "href": null,
-            "hidden_img": "images/wechart-qrcode.jpg",
             "width": 130
         },
         "QQ": {
